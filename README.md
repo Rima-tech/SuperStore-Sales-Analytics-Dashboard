@@ -5,3 +5,9 @@
 
 Developed an interactive sales analytics dashboard using a Superstore dataset from Kaggle. Performed data cleaning in Excel. Integrated key performance indicators like total sales ,profit etc. and visualized sales by product category, states, and years using bar graphs, pie charts, and donut charts. Included filters for segment , Region and date to facilitate data exploration.
 
+#### Data source:-
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+#### Tools Used -
+1.Power Bi
+
